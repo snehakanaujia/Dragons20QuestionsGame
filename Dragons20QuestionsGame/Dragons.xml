@@ -1,0 +1,53 @@
+<question text = "Does it live in Europe?">
+   				<question text = "Is it used as a symbol in alchemy?">
+ 								<dragon text = "Ouroboros">
+ 								</dragon>
+   								<question text = "Is it the dragon depicted in the Chinese zodiac?">
+   												<dragon text = "Oriental Dragon">
+   												</dragon>
+   												<question text = "Does it have a second head on its tail?">
+   																<dragon text = "Amphisbaena">
+   																</dragon>
+   																<dragon text = "Anthropomorphic Dragon">
+   																</dragon>
+   												</question>
+   								</question>
+   				</question>
+   				<question text = "Is it serpentine?">
+   								<question text = "Is it a legless bird-snake hybrid?">
+   											<dragon text = "Amphithere"></dragon>
+   											<question text = "Is it half human/animal on top with the body of a snake?">
+   														<dragon text = "Serpent-waist"></dragon>
+   														<question text = "Was this dragon the cause for 'Here Be Dragons' signs on old nautical charts?">
+  																	<dragon text = "Sea Serpent"></dragon>
+   																	<question text = "Is it revered for it's power/wisdom over human life or nature?">
+  																				<dragon text = "Great Serpent"></dragon>
+   																				<question text = "Is it a fanged, fire-breathing dragon that lives in isolated forests and wetlands?">
+   																							<dragon text = "Wyrm"></dragon>
+   																							<question text = "Is it the typical medieval dragon that is legendarily slain by European families who possess certain crests?">
+   																										<dragon text = "Wyvern"></dragon>
+   																										<dragon text = "Tatzelwurm"></dragon>
+   																							</question>
+   																				</question>
+ 																	</question>
+   														</question>
+   											</question>
+   								</question>
+  								<question text = "Is it wingless?">
+  											<question text = "Is it four-legged?">
+  														<dragon text = "Drake"></dragon>
+  														<dragon text = "Lindworm"></dragon>
+  											</question>
+  											<question text = "Does it have insect-like wings?">
+  														<dragon text = "Faery Dragon"></dragon>
+  														<question text = "Was it known to be a servant of sorcerers or other powerful beings?">
+  																	<dragon text = "Occidental Dragon"></dragon>
+  																	<question text = "Is it a hybrid monster like the part lion-goat-snake Chimera?">
+  																				<dragon text = "Dragon Beast"></dragon>
+  																				<dragon text = "Ti Lung"></dragon>
+  																	</question>
+  														</question>
+  											</question>
+  								</question>
+   				</question>
+</question>
